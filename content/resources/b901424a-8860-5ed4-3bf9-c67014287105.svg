@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="30mm"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo camille claudel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.950505"
+     inkscape:cx="37.112291"
+     inkscape:cy="72.021569"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1050" />
+    </marker>
+    <marker
+       id="ExperimentalArrow"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path1294" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1062" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1044" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.687836,-92.371101)">
+    <rect
+       style="fill:#0000ff;stroke:none;stroke-width:0.902038;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect49240"
+       width="30"
+       height="30"
+       x="68.687836"
+       y="92.371101"
+       ry="0"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#63ff06;stroke-width:0.909091;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.114536,108.526 C 78.818867,107.31546 89.194891,94.057209 89.194891,94.057209"
+       id="path959"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#63ff06;stroke-width:0.909091;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.938042,110.86204 c 6.699947,1.57863 17.179626,-3.21446 22.711963,-8.21436"
+       id="path959-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#63ff06;stroke-width:0.909091;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 70.14336,113.39697 c 3.92145,4.34838 18.616358,1.39715 24.536808,-1.72294 l -0.718427,3.49644"
+       id="path959-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#63ff06;stroke-width:0.909091;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 85.05549,94.341666 4.139399,-0.284459 -0.124453,4.319786"
+       id="path3224"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#63ff06;stroke-width:0.909091;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 89.050055,102.59577 3.59995,0.0519 -0.481743,4.00377"
+       id="path3226"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#63ff06;stroke-width:0.909091;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.680168,111.67403 -3.265984,-0.98726"
+       id="path3436"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       aria-label="C"
+       id="text8777"
+       style="font-size:15.5222px;line-height:1.25;font-family:'The Californication';-inkscape-font-specification:'The Californication';fill:#ffffff;stroke-width:0.264583"
+       transform="matrix(0.90909091,0,0,0.90909091,6.2443487,8.3973729)"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         d="m 85.012855,113.35516 q 0.515385,0 0.894345,-0.17432 0.37896,-0.1819 0.651812,-0.46991 0.28043,-0.28801 0.462331,-0.65181 0.1819,-0.3638 0.303168,-0.73518 l 1.591631,0.73518 q -0.18948,0.57602 -0.500227,1.1293 -0.310747,0.55328 -0.780657,0.97772 -0.462331,0.42443 -1.106563,0.6897 -0.644232,0.2577 -1.51584,0.2577 -1.13688,0 -1.970592,-0.40928 -0.826132,-0.41686 -1.371835,-1.15204 -0.545702,-0.74276 -0.810974,-1.75837 -0.257693,-1.01562 -0.257693,-2.22071 0,-1.25057 0.257693,-2.2586 0.265272,-1.00803 0.795816,-1.7129 0.538123,-0.71244 1.356676,-1.0914 0.818554,-0.38654 1.925117,-0.38654 0.856449,0 1.500681,0.21979 0.644232,0.2198 1.106563,0.6215 0.469911,0.39412 0.773079,0.93982 0.310747,0.53812 0.485068,1.18993 l -1.614369,0.53813 q -0.08337,-0.34107 -0.265272,-0.65181 -0.181901,-0.31833 -0.462331,-0.56087 -0.272851,-0.24253 -0.644232,-0.38653 -0.371381,-0.15159 -0.841291,-0.15159 -0.66697,0 -1.144459,0.26527 -0.47749,0.2577 -0.788237,0.74277 -0.303168,0.48506 -0.454752,1.16719 -0.144005,0.67455 -0.144005,1.51584 0,0.83371 0.144005,1.531 0.151584,0.68971 0.462331,1.18993 0.310748,0.50023 0.795816,0.78066 0.485069,0.28043 1.167197,0.28043 z"
+         style="font-weight:bold;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold'"
+         id="path49692" />
+    </g>
+    <g
+       aria-label="C"
+       id="text8777-2"
+       style="font-size:15.5222px;line-height:1.25;font-family:'The Californication';-inkscape-font-specification:'The Californication';fill:#ffffff;stroke-width:0.264583"
+       transform="matrix(0.90909091,0,0,0.90909091,6.2443487,8.3973729)"
+       inkscape:export-filename="D:\Cours\00_ressources\logo\logo camille claudel.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         d="m 79.31459,122.37513 q 0.515385,0 0.894345,-0.17432 0.37896,-0.1819 0.651811,-0.46991 0.280431,-0.28801 0.462332,-0.65181 0.1819,-0.36381 0.303168,-0.73519 l 1.591631,0.73519 q -0.18948,0.57601 -0.500227,1.1293 -0.310747,0.55328 -0.780657,0.97771 -0.462331,0.42444 -1.106563,0.68971 -0.644232,0.25769 -1.51584,0.25769 -1.13688,0 -1.970592,-0.40927 -0.826133,-0.41686 -1.371835,-1.15204 -0.545702,-0.74276 -0.810974,-1.75838 -0.257693,-1.01561 -0.257693,-2.2207 0,-1.25057 0.257693,-2.2586 0.265272,-1.00804 0.795816,-1.7129 0.538123,-0.71245 1.356676,-1.09141 0.818554,-0.38654 1.925117,-0.38654 0.856449,0 1.500681,0.2198 0.644232,0.2198 1.106563,0.62149 0.469911,0.39412 0.773079,0.93983 0.310747,0.53812 0.485068,1.18993 l -1.614369,0.53812 q -0.08337,-0.34106 -0.265272,-0.65181 -0.181901,-0.31832 -0.462331,-0.56086 -0.272851,-0.24253 -0.644232,-0.38654 -0.371381,-0.15158 -0.841291,-0.15158 -0.66697,0 -1.144459,0.26527 -0.47749,0.25769 -0.788237,0.74276 -0.303168,0.48507 -0.454752,1.1672 -0.144005,0.67455 -0.144005,1.51584 0,0.83371 0.144005,1.531 0.151584,0.6897 0.462331,1.18993 0.310747,0.50023 0.795816,0.78066 0.485069,0.28043 1.167197,0.28043 z"
+         style="font-weight:bold;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold'"
+         id="path49732" />
+    </g>
+  </g>
+</svg>

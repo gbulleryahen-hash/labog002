@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260612104150B3N66R</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606121041500T7UDB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>GUIDES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>fr</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781253513365</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mqaocdfd-a6ktw70zb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Construction mécanique</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Construction mécanique</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Construction mécanique</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfd-a6ktw70zb</odePageId>
+      <odeBlockId>20260103171547PPPKEX</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfd-a6ktw70zb</odePageId>
+          <odeBlockId>20260103171547PPPKEX</odeBlockId>
+          <odeIdeviceId>20260103170144ETNKHG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;"><img src="{{context_path}}/content/resources/20260103170144ETNKHG/logo_camille_claudel.svg" alt="" width="113" height="113" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144ETNKHG","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20260103170144ETNKHG/logo_camille_claudel.svg\" alt=\"\" width=\"113\" height=\"113\" /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqaocdfd-a6ktw70zb</odePageId>
+      <odeBlockId>20260103171547RPFXSJ</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfd-a6ktw70zb</odePageId>
+          <odeBlockId>20260103171547RPFXSJ</odeBlockId>
+          <odeIdeviceId>20260103170144XBYLQA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;">Bienvenue sur la page d'accueil du site de ressources pédagogiques en construction mécanique au lycée Camille Claudel de Fourmies.</p>
+<p><strong>Objectifs :</strong></p>
+<p>La " construction construction mécanique " apporte les connaissances nécessaires à l'exercice d'un métier, nécessitant des compétences de lecture, de décodage, de compréhension des systèmes techniques et de leur comportement.<br /> </p>
+<p><em><span style="font-size: 10pt;">DERNIÈRE MISE À JOUR DES CONTENUS LE 10 AVRIL 2024</span></em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144XBYLQA","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p style=\"text-align: center;\">Bienvenue sur la page d'accueil du site de ressources pédagogiques en construction mécanique au lycée Camille Claudel de Fourmies.</p>\n<p><strong>Objectifs :</strong></p>\n<p>La \" construction construction mécanique \" apporte les connaissances nécessaires à l'exercice d'un métier, nécessitant des compétences de lecture, de décodage, de compréhension des systèmes techniques et de leur comportement.<br /> </p>\n<p><em><span style=\"font-size: 10pt;\">DERNIÈRE MISE À JOUR DES CONTENUS LE 10 AVRIL 2024</span></em></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfg-h5yayx9as</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 01</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 01</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 01</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfg-h5yayx9as</odePageId>
+      <odeBlockId>20260103171547EJFDMD</odeBlockId>
+      <blockName>DESSIN TECHNIQUE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfg-h5yayx9as</odePageId>
+          <odeBlockId>20260103171547EJFDMD</odeBlockId>
+          <odeIdeviceId>20260103170144YCSDHK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-001/">SPA01-001</a> chandelle<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-002/">SPA01-002</a> Projection orthogonale cosse batterie<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-003/">SPA01-003</a> perspective cosse batterie<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-101/">SPA01-101</a> moteur leroy somer<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-102/">SPA01-102</a> Projection orthogonale piece prismatique<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-103/">SPA01-103</a> Perspective ISO piece prismatique<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-104/">SPA01-104</a> brique lego plaque<br>SPA01-105 dé<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-105/">SPA01-105</a> dessin technique (cap)<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-106/">SPA01-106</a> moteur asynchrone&nbsp;</p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-301/" id="link_3" title="">SPA01-301 </a>serre joint a came<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-302/">SPA01-302</a> projection orthogonale corps trusquin à clé<br><a href="https://construction-lpcc.canoprof.fr/eleve/01/SPA01-303/">SPA01-303</a> perspective et assemblage meuble<br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144YCSDHK","textInfoDurationInput":"","textInfoDurationTextInput":"Durée","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Regroupement","textTextarea":"\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-001/\">SPA01-001</a> chandelle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-002/\">SPA01-002</a> Projection orthogonale cosse batterie<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-003/\">SPA01-003</a> perspective cosse batterie<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-101/\">SPA01-101</a> moteur leroy somer<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-102/\">SPA01-102</a> Projection orthogonale piece prismatique<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-103/\">SPA01-103</a> Perspective ISO piece prismatique<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-104/\">SPA01-104</a> brique lego plaque<br />SPA01-105 dé<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-105/\">SPA01-105</a> dessin technique (cap)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-106/\">SPA01-106</a> moteur asynchrone </p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-301/\" id=\"link_3\" title=\"\">SPA01-301 </a>serre joint a came<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-302/\">SPA01-302</a> projection orthogonale corps trusquin à clé<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/01/SPA01-303/\">SPA01-303</a> perspective et assemblage meuble<br /></p>\n","textFeedbackInput":"Montrer l'écho en retour","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfg-xhuts4014</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 02</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 02</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 02</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfg-xhuts4014</odePageId>
+      <odeBlockId>20260103171547WRCBKQ</odeBlockId>
+      <blockName>CAO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>11</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfg-xhuts4014</odePageId>
+          <odeBlockId>20260103171547WRCBKQ</odeBlockId>
+          <odeIdeviceId>20260103170144QZVKLP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-01/">SPA02-001</a> decouverte de solidworks<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-006/">SPA02-006</a> real eclate essui glace<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-020/">SPA02-020</a> creation ampoule<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-025/">SPA02-025</a> Assemblage cric moto<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-036/">SPA02-036</a> decouverte de solidworks & projection<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-050/">SPA02-050</a> assemblage moteur 2 temps et animations<br />SPA02-102 FAO00fraisage<br />SPA02-103 FAO00tournage<br />SPA02-104 FAO01fraisage<br />SPA02-105 FAO01tournage<br />SPA02-106 FAO02fraisage<br />SPA02-107 FAO02tournage<br />SPA02-108 FAO03fraisage<br />SPA02-111 FAO04tournage<br />SPA02-114 FAO06fraisage<br />SPA02-116 FAO07fraisage<br />SPA02-131Potence trotinette Phases solidworks<br />SPA02-132 Flasque trotinette<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-133/">SPA02-133</a> Assemblage pied a coulisse<br />SPA02-133 butee reglable couvercle configuration<br />SPA02-133 butee reglable couvercle configuration - Copie<br />SPA02-134 assemblage support de canne<br />SPA02-137 outil flexible pneumatique<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-301/">SPA02-301</a> decouverte de solidworks</p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-309/">SPA02-309</a> tabouret coffre (pièces)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-310/">SPA02-310</a> tabouret coffre (assemblage)</p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-319/">SPA02-319</a> table chevet moderne (pèces)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/02/SPA02-320/">SPA02-320</a> table chevet moderne (assemblage)</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144QZVKLP","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-01/\">SPA02-001</a> decouverte de solidworks<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-006/\">SPA02-006</a> real eclate essui glace<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-020/\">SPA02-020</a> creation ampoule<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-025/\">SPA02-025</a> Assemblage cric moto<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-036/\">SPA02-036</a> decouverte de solidworks & projection<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-050/\">SPA02-050</a> assemblage moteur 2 temps et animations<br />SPA02-102 FAO00fraisage<br />SPA02-103 FAO00tournage<br />SPA02-104 FAO01fraisage<br />SPA02-105 FAO01tournage<br />SPA02-106 FAO02fraisage<br />SPA02-107 FAO02tournage<br />SPA02-108 FAO03fraisage<br />SPA02-111 FAO04tournage<br />SPA02-114 FAO06fraisage<br />SPA02-116 FAO07fraisage<br />SPA02-131Potence trotinette Phases solidworks<br />SPA02-132 Flasque trotinette<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-133/\">SPA02-133</a> Assemblage pied a coulisse<br />SPA02-133 butee reglable couvercle configuration<br />SPA02-133 butee reglable couvercle configuration - Copie<br />SPA02-134 assemblage support de canne<br />SPA02-137 outil flexible pneumatique<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-301/\">SPA02-301</a> decouverte de solidworks</p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-309/\">SPA02-309</a> tabouret coffre (pièces)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-310/\">SPA02-310</a> tabouret coffre (assemblage)</p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-319/\">SPA02-319</a> table chevet moderne (pèces)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/02/SPA02-320/\">SPA02-320</a> table chevet moderne (assemblage)</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfh-l49kx86sh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 03</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 03</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 03</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfh-l49kx86sh</odePageId>
+      <odeBlockId>20260103171547HPJRGF</odeBlockId>
+      <blockName>VOLUMES ÉLÈMENTAIRES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>14</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfh-l49kx86sh</odePageId>
+          <odeBlockId>20260103171547HPJRGF</odeBlockId>
+          <odeIdeviceId>20260103170144BVRAHJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-001/" id="link_4">SPA03-001</a> creation volumes elementaires avec solidworks<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-002/">SPA03-002</a> ampoule<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-006/">SPA03-006</a> compresseur bielle manivelle<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-008/">SPA03-008</a> cle a cliquet<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-009/">SPA03-009</a> cletau<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-010/">SPA03-010</a> serre joint<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-104/">SPA03-104</a> massette<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-105/">SPA03-105</a> chasse cone<br>SPA03-105 curette<br>SPA03-107 chape articulation<br>SPA03-117 socle presse papier<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-203/">SPA03-203</a> fix ring<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-302/">SPA03-302</a>&nbsp;trusquin dictum<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-303/">SPA03-303</a> pied de gueridon<br><a href="https://construction-lpcc.canoprof.fr/eleve/03/SPA03-304/">SPA03-304</a> came serre joint<br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144BVRAHJ","textInfoDurationInput":"","textInfoDurationTextInput":"Durée","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Regroupement","textTextarea":"\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-001/\" id=\"link_4\">SPA03-001</a> creation volumes elementaires avec solidworks<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-002/\">SPA03-002</a> ampoule<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-006/\">SPA03-006</a> compresseur bielle manivelle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-008/\">SPA03-008</a> cle a cliquet<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-009/\">SPA03-009</a> cletau<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-010/\">SPA03-010</a> serre joint<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-104/\">SPA03-104</a> massette<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-105/\">SPA03-105</a> chasse cone<br />SPA03-105 curette<br />SPA03-107 chape articulation<br />SPA03-117 socle presse papier<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-203/\">SPA03-203</a> fix ring<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-302/\">SPA03-302</a> trusquin dictum<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-303/\">SPA03-303</a> pied de gueridon<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/03/SPA03-304/\">SPA03-304</a> came serre joint<br /></p>\n","textFeedbackInput":"Montrer l'écho en retour","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfh-kdbal3c80</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 04</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 04</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 04</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfh-kdbal3c80</odePageId>
+      <odeBlockId>20260103171547RNTTQB</odeBlockId>
+      <blockName>COTATION ET VOCABULAIRE TECHNIQUE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>17</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfh-kdbal3c80</odePageId>
+          <odeBlockId>20260103171547RNTTQB</odeBlockId>
+          <odeIdeviceId>20260103170144RHRFNM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-001/" id="link_5" title="">SPA04-001</a> vocabulaire technique train avant<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-002/">SPA04-002</a> pince etau<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-003/">SPA04-003</a> decouverte voc technique Coupleur<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-004/">SPA04-004</a> equerre de fixation<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-005/">SPA04-005</a> Eval solidworks cosse batterie<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-006/">SPA04-006</a> boule d'attelage<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-007/">SPA04-007 </a>bloc moteur de la jeep<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-008/">SPA04-008</a> tpvoctech<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-014/">SPA04-014</a> serrjoin<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-015/">SPA04-015</a> cle cliquet<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-016/">SPA04-016</a> cle etau<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-017/">SPA04-017</a> cotation chape cap<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-018/">SPA04-018</a> cot cosse batterie<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-019/">SPA04-019</a> outillage sécurité<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-020/">SPA04-020</a> decouverte cotation chape d'attelage<br>SPA04-102 butée<br>SPA04-106 caisse de la jeep<br>SPA04-107 socle press papier<br>SPA04-111 verin joucomatic<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-209">SPA04-209</a> va et vient garage cotation<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-210">SPA04-210</a> aspiration de menuiserie<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-212">SPA04-212</a> Fixation Eclairage Hopital<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-213/">SPA04-213</a> pupitre de commande hopital<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-214">SPA04-214 pupitre eclairage</a><br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-301">SPA04-301</a> Porte<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-302">SPA04-302</a> Tabouret coffre<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-303">SPA04-303</a> Percage tete de lit<br><a href="https://construction-lpcc.canoprof.fr/eleve/04/04-304">SPA04-304</a> Serre joint à came<br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144RHRFNM","textInfoDurationInput":"","textInfoDurationTextInput":"Durée","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Regroupement","textTextarea":"\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-001/\" id=\"link_5\" title=\"\">SPA04-001</a> vocabulaire technique train avant<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-002/\">SPA04-002</a> pince etau<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-003/\">SPA04-003</a> decouverte voc technique Coupleur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-004/\">SPA04-004</a> equerre de fixation<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-005/\">SPA04-005</a> Eval solidworks cosse batterie<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-006/\">SPA04-006</a> boule d'attelage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-007/\">SPA04-007 </a>bloc moteur de la jeep<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-008/\">SPA04-008</a> tpvoctech<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-014/\">SPA04-014</a> serrjoin<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-015/\">SPA04-015</a> cle cliquet<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-016/\">SPA04-016</a> cle etau<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-017/\">SPA04-017</a> cotation chape cap<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-018/\">SPA04-018</a> cot cosse batterie<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-019/\">SPA04-019</a> outillage sécurité<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-020/\">SPA04-020</a> decouverte cotation chape d'attelage<br />SPA04-102 butée<br />SPA04-106 caisse de la jeep<br />SPA04-107 socle press papier<br />SPA04-111 verin joucomatic<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-209\">SPA04-209</a> va et vient garage cotation<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-210\">SPA04-210</a> aspiration de menuiserie<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-212\">SPA04-212</a> Fixation Eclairage Hopital<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-213/\">SPA04-213</a> pupitre de commande hopital<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-214\">SPA04-214 pupitre eclairage</a><br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-301\">SPA04-301</a> Porte<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-302\">SPA04-302</a> Tabouret coffre<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-303\">SPA04-303</a> Percage tete de lit<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/04/04-304\">SPA04-304</a> Serre joint à came<br /></p>\n","textFeedbackInput":"Montrer l'écho en retour","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfh-8boczua64</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 05</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 05</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 05</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfh-8boczua64</odePageId>
+      <odeBlockId>20260103171547AGGWVK</odeBlockId>
+      <blockName>Lire et repérer les éléments d&apos;un dessin technique</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>20</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfh-8boczua64</odePageId>
+          <odeBlockId>20260103171547AGGWVK</odeBlockId>
+          <odeIdeviceId>20260103170144XSJBOF</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-001/" id="link_6" title="">SPA05-001</a> Vanne<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-002/">SPA05-002</a> Dérive chaine<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-003/">SPA05-003</a> cric moto<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-004/">SPA05-004</a> Assemblage pelleteuse<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-006/">SPA05-006</a> massette<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-007/">SPA05-007</a> Assemblage massette<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-008/">SPA05-008</a> Assemblage cric<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-009/">SPA05-009</a> Le repose pieds arrière de moto<br>SPA05-109 assemblage jeep<br>SPA05-110 ERM<br>SPA05-110 Vanne<br>S<a href="https://construction-lpcc.canoprof.fr/eleve/05/05-301">PA05-301</a> serre joint<br><a href="https://construction-lpcc.canoprof.fr/eleve/05/05-302">SPA05-302</a> trusquin</p>
+<div id="gtx-trans" style="position: absolute; left: 10px; top: 175.787px;">
+<div class="gtx-trans-icon"><br></div>
+</div>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144XSJBOF","textInfoDurationInput":"","textInfoDurationTextInput":"Durée","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Regroupement","textTextarea":"\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-001/\" id=\"link_6\" title=\"\">SPA05-001</a> Vanne<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-002/\">SPA05-002</a> Dérive chaine<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-003/\">SPA05-003</a> cric moto<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-004/\">SPA05-004</a> Assemblage pelleteuse<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-006/\">SPA05-006</a> massette<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-007/\">SPA05-007</a> Assemblage massette<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-008/\">SPA05-008</a> Assemblage cric<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-009/\">SPA05-009</a> Le repose pieds arrière de moto<br />SPA05-109 assemblage jeep<br />SPA05-110 ERM<br />SPA05-110 Vanne<br />S<a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-301\">PA05-301</a> serre joint<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/05/05-302\">SPA05-302</a> trusquin</p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 10px; top: 175.787px;\">\n<div class=\"gtx-trans-icon\"><br /></div>\n</div>\n","textFeedbackInput":"Montrer l'écho en retour","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfi-ziled62s5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 06</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 06</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 06</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfi-ziled62s5</odePageId>
+      <odeBlockId>20260103171547HRHWBH</odeBlockId>
+      <blockName>COUPES ET SECTIONS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>23</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfi-ziled62s5</odePageId>
+          <odeBlockId>20260103171547HRHWBH</odeBlockId>
+          <odeIdeviceId>20260103170144DYMEAM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-003/">SPA06-003</a> contacteur feu stop<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-004/">SPA06-004</a> embrayage cotation<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-005/">SPA06-005</a> maitre cylindre<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-006/">SPA06-006</a> rotule de direction<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-007/">SPA06-007</a> interrupteur bi stable<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-0081/">SPA06-008</a> interrupteur de portière<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-009/">SPA06-009</a> Bouton poussoir<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-010/">SPA06-010</a> massette<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-011/">SPA06-011</a> Extracteur rotule<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-013/">SPA06-013</a> tdpompe gazole<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-014/">SPA06-014</a> Maitre Frein arrière MOTO<br />SPA06-101 Vérin<br />SPA06-102 Vanne<br />SPA06-104 Coupe<br />SPA06-106 Butée réglable<br />SPA06-109 interrupteur poussoir<br />SPA06-111 micro contact<br />SPA06-112 support de canne<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-208/">SPA06-208</a> disjoncteur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-209/">SPA06-209</a> pompe aquaticc<br /><a href="https://construction-lpcc.canoprof.fr/eleve/06/06-210/">SPA06-210</a> electrovanne</p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144DYMEAM","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-003/\">SPA06-003</a> contacteur feu stop<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-004/\">SPA06-004</a> embrayage cotation<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-005/\">SPA06-005</a> maitre cylindre<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-006/\">SPA06-006</a> rotule de direction<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-007/\">SPA06-007</a> interrupteur bi stable<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-0081/\">SPA06-008</a> interrupteur de portière<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-009/\">SPA06-009</a> Bouton poussoir<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-010/\">SPA06-010</a> massette<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-011/\">SPA06-011</a> Extracteur rotule<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-013/\">SPA06-013</a> tdpompe gazole<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-014/\">SPA06-014</a> Maitre Frein arrière MOTO<br />SPA06-101 Vérin<br />SPA06-102 Vanne<br />SPA06-104 Coupe<br />SPA06-106 Butée réglable<br />SPA06-109 interrupteur poussoir<br />SPA06-111 micro contact<br />SPA06-112 support de canne<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-208/\">SPA06-208</a> disjoncteur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-209/\">SPA06-209</a> pompe aquaticc<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/06/06-210/\">SPA06-210</a> electrovanne</p>\n<p></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfi-w845y9vc7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 07</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 07</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 07</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfi-w845y9vc7</odePageId>
+      <odeBlockId>20260103171547JNBNEE</odeBlockId>
+      <blockName>FILETAGE TARAUDAGE ASSEMBLAGE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>26</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfi-w845y9vc7</odePageId>
+          <odeBlockId>20260103171547JNBNEE</odeBlockId>
+          <odeIdeviceId>20260103170144UOGLMI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-012/" target="_blank" rel="noopener"></a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-001/" target="_blank" rel="noopener">SPA07-001 Cle-etau</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-002/" target="_blank" rel="noopener">SPA07-002 Extracteur à roulement</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-003/" target="_blank" rel="noopener">SPA07-003 Elément filetés</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-005/" target="_blank" rel="noopener">SPA07-005 bougie</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-006/">SPA07-006 Valve</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-012/" target="_blank" style="font-size: 1.05em;" rel="noopener">SPA07-012 Clé à sangle</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-013/" target="_blank" rel="noopener">SPA07-013 pompe a vide voiture</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-102/" target="_blank" rel="noopener">SPA07-102 Etau proxxon</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-105/" target="_blank" rel="noopener">SPA07-105 JEEP Caisse arriere</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-106/" target="_blank" rel="noopener">SPA07-106 JEEP chassis</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-107/" target="_blank" rel="noopener">SPA07-107 clé a sangle serre joint etau sauterelle</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-204/" target="_blank" rel="noopener">SPA07-204 mise en conformite malaxeur</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-207/" target="_blank" rel="noopener">SPA07-207 fixation éclairage</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-208/" target="_blank" rel="noopener">SPA07-208 contacteur</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-210/" target="_blank" rel="noopener">SPA07-210 bloc de jonction domino</a></p>
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/07/07-211/" target="_blank" rel="noopener">SPA07-211 borne de raccordement</a></p>
+<div id="gtx-trans" style="position: absolute; left: 122px; top: 57.8px;">
+<div class="gtx-trans-icon"></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144UOGLMI","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-012/\" target=\"_blank\" rel=\"noopener\"></a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-001/\" target=\"_blank\" rel=\"noopener\">SPA07-001 Cle-etau</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-002/\" target=\"_blank\" rel=\"noopener\">SPA07-002 Extracteur à roulement</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-003/\" target=\"_blank\" rel=\"noopener\">SPA07-003 Elément filetés</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-005/\" target=\"_blank\" rel=\"noopener\">SPA07-005 bougie</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-006/\">SPA07-006 Valve</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-012/\" target=\"_blank\" style=\"font-size: 1.05em;\" rel=\"noopener\">SPA07-012 Clé à sangle</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-013/\" target=\"_blank\" rel=\"noopener\">SPA07-013 pompe a vide voiture</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-102/\" target=\"_blank\" rel=\"noopener\">SPA07-102 Etau proxxon</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-105/\" target=\"_blank\" rel=\"noopener\">SPA07-105 JEEP Caisse arriere</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-106/\" target=\"_blank\" rel=\"noopener\">SPA07-106 JEEP chassis</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-107/\" target=\"_blank\" rel=\"noopener\">SPA07-107 clé a sangle serre joint etau sauterelle</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-204/\" target=\"_blank\" rel=\"noopener\">SPA07-204 mise en conformite malaxeur</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-207/\" target=\"_blank\" rel=\"noopener\">SPA07-207 fixation éclairage</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-208/\" target=\"_blank\" rel=\"noopener\">SPA07-208 contacteur</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-210/\" target=\"_blank\" rel=\"noopener\">SPA07-210 bloc de jonction domino</a></p>\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/07/07-211/\" target=\"_blank\" rel=\"noopener\">SPA07-211 borne de raccordement</a></p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 122px; top: 57.8px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfi-lo5lc6785</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 08</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 08</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 08</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfi-lo5lc6785</odePageId>
+      <odeBlockId>20260103171547NLQWST</odeBlockId>
+      <blockName>ANALYSE FONCTIONNELLE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>29</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfi-lo5lc6785</odePageId>
+          <odeBlockId>20260103171547NLQWST</odeBlockId>
+          <odeIdeviceId>20260103170144HEESFF</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-001/">SPA08-001</a> clés<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-003/">SPA08-003</a> Methode SADT car<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-006/">SPA08-006</a> cric Renault<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-007/">SPA08-007</a> Pompe manuelle<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-008/">SPA08-008</a> système de direction<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-009/">SPA08-009</a> système de direction assistée<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-010/">SPA08-010</a> Analyse_Fonct cric chandelle<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-012/">SPA08-012</a> cric hydraulic<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-013/">SPA08-013</a> Rotule<br />SPA08-102 bride<br />SPA08-103 automatisme ravoux<br />SPA08-104 Verin rotatif ermaflex<br />SPA08-105 Distributeur ermaflex<br />SPA08-105 mecasysteme<br />SPA08-108 automatisme ERM<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-109/">SPA08-109</a> perceuse colonne AF + assemblage<br />SPA08-111 SADT Mainelec<br /><a href="https://construction-lpcc.canoprof.fr/eleve/08/08-203/">SPA08-203</a> portail</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144HEESFF","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-001/\">SPA08-001</a> clés<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-003/\">SPA08-003</a> Methode SADT car<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-006/\">SPA08-006</a> cric Renault<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-007/\">SPA08-007</a> Pompe manuelle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-008/\">SPA08-008</a> système de direction<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-009/\">SPA08-009</a> système de direction assistée<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-010/\">SPA08-010</a> Analyse_Fonct cric chandelle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-012/\">SPA08-012</a> cric hydraulic<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-013/\">SPA08-013</a> Rotule<br />SPA08-102 bride<br />SPA08-103 automatisme ravoux<br />SPA08-104 Verin rotatif ermaflex<br />SPA08-105 Distributeur ermaflex<br />SPA08-105 mecasysteme<br />SPA08-108 automatisme ERM<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-109/\">SPA08-109</a> perceuse colonne AF + assemblage<br />SPA08-111 SADT Mainelec<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/08/08-203/\">SPA08-203</a> portail</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfj-aakzmru4e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 09</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 09</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 09</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfj-aakzmru4e</odePageId>
+      <odeBlockId>20260103171547OJUMWU</odeBlockId>
+      <blockName>REPÈRER DES MOUVEMENTS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>32</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfj-aakzmru4e</odePageId>
+          <odeBlockId>20260103171547OJUMWU</odeBlockId>
+          <odeIdeviceId>20260103170144OBEVZG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-001/">SPA09-001</a> minicut<br /><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-002/">SPA09-002</a> Clé à filtre FACOM<br /><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-003/">SPA09-003</a> malette guidage<br /><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-004/">SPA09-004</a> cric moto<br /><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-005/">SPA09-005</a> Mini compresseur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-006/">SPA09-006</a> F1<br /><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-007/">SPA09-007</a> Malette Jeulin<br />SPA09-101 bride de serrage<br />SPA09-102 trotinette<br />SPA09-105 CERMEX MEI (à faire)<br />SPA09-106 CERMEX MEI (à faire)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/09/09-203/">SPA09-203</a> servomoteur</p>
+<div id="gtx-trans" style="position: absolute; left: 10px; top: 269.838px;">
+<div class="gtx-trans-icon"></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144OBEVZG","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-001/\">SPA09-001</a> minicut<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-002/\">SPA09-002</a> Clé à filtre FACOM<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-003/\">SPA09-003</a> malette guidage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-004/\">SPA09-004</a> cric moto<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-005/\">SPA09-005</a> Mini compresseur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-006/\">SPA09-006</a> F1<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-007/\">SPA09-007</a> Malette Jeulin<br />SPA09-101 bride de serrage<br />SPA09-102 trotinette<br />SPA09-105 CERMEX MEI (à faire)<br />SPA09-106 CERMEX MEI (à faire)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/09/09-203/\">SPA09-203</a> servomoteur</p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 10px; top: 269.838px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfj-wlabhb7a4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 10</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfj-wlabhb7a4</odePageId>
+      <odeBlockId>20260103171547QNJSSD</odeBlockId>
+      <blockName>LIAISONS CINÉMATIQUES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>35</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfj-wlabhb7a4</odePageId>
+          <odeBlockId>20260103171547QNJSSD</odeBlockId>
+          <odeIdeviceId>20260103170144ISPASD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/10/SPA10-001/" target="_blank" rel="noopener">SPA10-001 serre-joint</a><br /><span style="font-size: 1.05em;"><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-002/">SPA10-002</a> contacts liaisons<br /></span><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-003/">SPA10-003</a> modelisation des liaisons<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-004/">SPA10-004</a> micromoteur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-005/">SPA10-005</a> cric moto<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-006/">SPA10-006</a> capteur pneumatique<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-007/">SPA10-007 </a>Rotule<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-008/">SPA10-008</a> Soufflette<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-009/">SPA10-009</a> Chandelle<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-010/">SPA10-010</a> extracteur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-014/">SPA10-014</a> étrier flottant<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-015/">SPA10-015</a> convoyeur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-021/">SPA10-021</a> MICROMOTEUR<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-022/">SPA10-022</a> pompe a essence came<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-023/">SPA10-023</a> chandelle<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-024/">SPA10-024</a> Cle filtre<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-025/">SPA10-025</a> Serre joint<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-026/">SPA10-026</a> cle filtre Pignon Cremaillere<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-029/">SPA10-029</a> Pompe a vide freinage voiture<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-030/">SPA10-030</a> Etrier de mégane<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-031/">SPA10-031</a> Clé à sangle<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-032/">SPA10-032</a> suspension de Kawa<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-033/">SPA10-033</a> maître cylindre de Kart<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-034/">SPA10-034</a> pomp alim diesel came<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-033/">SPA10-033</a> maître cylindre de Kart<br />SPA10-103 Portique de manutention<br />SPA10-107 coupe tube<br />SPA10-108 borne de reglage<br />SPA10-109 butée de fraisage<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-110/">SPA10-110</a> etau à serrage rapide<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-111/">SPA10-111</a> Etau de modeliste<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-112/">SPA10-112</a>_etau_proxon<br />SPA10-114 mecasistem mei<br />SPA10-116 Ravaoux<br />SPA10-117 Paletticc reducteur RI40 Fonction assemblage<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-118/">SPA10-118</a> perceuse colonne livre 3eme annee tunisie page 100<br />SPA10-119 Poupéé mobile de tour livre tunisie page 95<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-120/">SPA10-120</a> etau<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-204/">SPA10-204</a> commutateur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/10/10-213/">SPA10-213</a> pressostat</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144ISPASD","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/SPA10-001/\" target=\"_blank\" rel=\"noopener\">SPA10-001 serre-joint</a><br /><span style=\"font-size: 1.05em;\"><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-002/\">SPA10-002</a> contacts liaisons<br /></span><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-003/\">SPA10-003</a> modelisation des liaisons<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-004/\">SPA10-004</a> micromoteur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-005/\">SPA10-005</a> cric moto<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-006/\">SPA10-006</a> capteur pneumatique<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-007/\">SPA10-007 </a>Rotule<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-008/\">SPA10-008</a> Soufflette<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-009/\">SPA10-009</a> Chandelle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-010/\">SPA10-010</a> extracteur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-014/\">SPA10-014</a> étrier flottant<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-015/\">SPA10-015</a> convoyeur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-021/\">SPA10-021</a> MICROMOTEUR<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-022/\">SPA10-022</a> pompe a essence came<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-023/\">SPA10-023</a> chandelle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-024/\">SPA10-024</a> Cle filtre<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-025/\">SPA10-025</a> Serre joint<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-026/\">SPA10-026</a> cle filtre Pignon Cremaillere<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-029/\">SPA10-029</a> Pompe a vide freinage voiture<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-030/\">SPA10-030</a> Etrier de mégane<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-031/\">SPA10-031</a> Clé à sangle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-032/\">SPA10-032</a> suspension de Kawa<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-033/\">SPA10-033</a> maître cylindre de Kart<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-034/\">SPA10-034</a> pomp alim diesel came<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-033/\">SPA10-033</a> maître cylindre de Kart<br />SPA10-103 Portique de manutention<br />SPA10-107 coupe tube<br />SPA10-108 borne de reglage<br />SPA10-109 butée de fraisage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-110/\">SPA10-110</a> etau à serrage rapide<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-111/\">SPA10-111</a> Etau de modeliste<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-112/\">SPA10-112</a>_etau_proxon<br />SPA10-114 mecasistem mei<br />SPA10-116 Ravaoux<br />SPA10-117 Paletticc reducteur RI40 Fonction assemblage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-118/\">SPA10-118</a> perceuse colonne livre 3eme annee tunisie page 100<br />SPA10-119 Poupéé mobile de tour livre tunisie page 95<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-120/\">SPA10-120</a> etau<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-204/\">SPA10-204</a> commutateur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/10/10-213/\">SPA10-213</a> pressostat</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfj-kojubu7s1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 11</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 11</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 11</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfj-kojubu7s1</odePageId>
+      <odeBlockId>20260103171547NCTRQO</odeBlockId>
+      <blockName>AJUSTEMENT - COTATION FONCTIONNELLE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>38</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfj-kojubu7s1</odePageId>
+          <odeBlockId>20260103171547NCTRQO</odeBlockId>
+          <odeIdeviceId>20260103170144OQJMXU</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-001/" id="link_7">SPA11-001</a> Moteur<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-003/">SPA11-003</a> Freinage<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-004/">SPA11-004</a> PompeTarer les injecteurs<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-005/">SPA11-005</a> pompe-a-vide<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-0061/">SPA11-006</a> reglages jeux aile yaris amovible mobile aile (1)<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-007/">SPA11-007</a> amovible mobile capot<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-008/">SPA11-008</a> liaisons pistolet<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-009/">SPA11-009</a> reglage jeuxcharniere yaris amovible mobile portiere<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-010/">SPA11-010</a> Pompe d'alimentation diesel - came<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-013/">SPA11-013</a> rotule direction<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-014/">SPA11-014</a> roue de karting<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-015/">SPA11-015</a> alternateur C4<br>SPA11-102 bride hydraulique ajustements<br>SPA11-103 Cotation fonctionnelle Coupe-tube<br>SPA11-104 Bride automatique<br>SPA11-105 ajust verin bosch<br>SPA11-106 cot fonc verin bosch<br>SPA11-107 ajust limiteur pression<br>SPA11-108 verin double effet cotation fonctionnelle<br>SPA11-109 Cotation fonctionnelle Coupe-tube<br>SPA11-110 verin double effet - Hemato -cotation fonctionnelle - MELEC<br>SPA11-111 multitec réglage<br>SPA11-112 verin festo<br>SPA11-113 butée usinage<br>SPA11-114 butée usinage chaine de cote<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-202/">SPA11-202</a> eclairage hopital<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-301/">SPA11-301</a> chaise d'enfant<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-302/">SPA11-302</a> tiroir<br><a href="https://construction-lpcc.canoprof.fr/eleve/11/11-303/">SPA11-303</a> Secretaire<br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144OQJMXU","textInfoDurationInput":"","textInfoDurationTextInput":"Durée","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Regroupement","textTextarea":"\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-001/\" id=\"link_7\">SPA11-001</a> Moteur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-003/\">SPA11-003</a> Freinage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-004/\">SPA11-004</a> PompeTarer les injecteurs<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-005/\">SPA11-005</a> pompe-a-vide<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-0061/\">SPA11-006</a> reglages jeux aile yaris amovible mobile aile (1)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-007/\">SPA11-007</a> amovible mobile capot<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-008/\">SPA11-008</a> liaisons pistolet<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-009/\">SPA11-009</a> reglage jeuxcharniere yaris amovible mobile portiere<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-010/\">SPA11-010</a> Pompe d'alimentation diesel - came<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-013/\">SPA11-013</a> rotule direction<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-014/\">SPA11-014</a> roue de karting<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-015/\">SPA11-015</a> alternateur C4<br />SPA11-102 bride hydraulique ajustements<br />SPA11-103 Cotation fonctionnelle Coupe-tube<br />SPA11-104 Bride automatique<br />SPA11-105 ajust verin bosch<br />SPA11-106 cot fonc verin bosch<br />SPA11-107 ajust limiteur pression<br />SPA11-108 verin double effet cotation fonctionnelle<br />SPA11-109 Cotation fonctionnelle Coupe-tube<br />SPA11-110 verin double effet - Hemato -cotation fonctionnelle - MELEC<br />SPA11-111 multitec réglage<br />SPA11-112 verin festo<br />SPA11-113 butée usinage<br />SPA11-114 butée usinage chaine de cote<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-202/\">SPA11-202</a> eclairage hopital<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-301/\">SPA11-301</a> chaise d'enfant<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-302/\">SPA11-302</a> tiroir<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/11/11-303/\">SPA11-303</a> Secretaire<br /></p>\n","textFeedbackInput":"Montrer l'écho en retour","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfj-bsk054qvl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 12</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 12</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 12</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfj-bsk054qvl</odePageId>
+      <odeBlockId>20260103171547ZRKDZL</odeBlockId>
+      <blockName>GUIDAGES ROTATION TRANSLATION</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>41</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfj-bsk054qvl</odePageId>
+          <odeBlockId>20260103171547ZRKDZL</odeBlockId>
+          <odeIdeviceId>20260103170144ZILGQI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-001/">SPA12-001</a> Pompe à palettes (palier)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-003/">SPA12-003</a> Galet Tendeur (montage de roulements)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-004/">SPA12-004</a> guidage alternateur C4<br /><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-005/">SPA12-005</a> meuleuse<br /><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-006/">SPA12-006</a> Compresseur<br />SPA12-102 Reducteur orthobloc (roulement)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-104/">SPA12-104</a> perceuse à colonne<br /><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-105/">SPA12-105</a> roulements<br /><a href="https://construction-lpcc.canoprof.fr/eleve/12/12-106/">SPA12-106</a> Pompe hydraulique PHP15</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144ZILGQI","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-001/\">SPA12-001</a> Pompe à palettes (palier)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-003/\">SPA12-003</a> Galet Tendeur (montage de roulements)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-004/\">SPA12-004</a> guidage alternateur C4<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-005/\">SPA12-005</a> meuleuse<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-006/\">SPA12-006</a> Compresseur<br />SPA12-102 Reducteur orthobloc (roulement)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-104/\">SPA12-104</a> perceuse à colonne<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-105/\">SPA12-105</a> roulements<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/12/12-106/\">SPA12-106</a> Pompe hydraulique PHP15</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfk-cu5yzfbcv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 13</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 13</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 13</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfk-cu5yzfbcv</odePageId>
+      <odeBlockId>20260103171547DFLGCJ</odeBlockId>
+      <blockName>TRANSMISSION DE PUISSANCE - TRANSFORMATION DE MOUVEMENT</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>44</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfk-cu5yzfbcv</odePageId>
+          <odeBlockId>20260103171547DFLGCJ</odeBlockId>
+          <odeIdeviceId>20260103170144IABJHC</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-001/">SPA13-001</a> pompe d’alimentation système d’injection d’un moteur diesel came<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-002/">SPA13-002</a> Actionneur de serrure<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-003/">SPA13-003</a> Freinage<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-004/">SPA13-004</a> Mini compresseur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-011/">SPA13-011</a> étrier flottant yamaha<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-013/">SPA13-013</a> boite de vitesse<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-014/">SPA13-014</a> embrayage de la Suzuki GSF<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-015/">SPA13-015</a> rétroviseur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-016/">SPA13-016</a> Courroie d'accessoires Peugeot 206<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-018/">SPA13-018</a> synchroniseur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-019/">SPA13-019</a> boite de vitesse de tracteur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-020/">SPA13-020</a> POMPE A VIDE<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-021/">SPA13-021</a> freinage avant de la Honda CBF 125<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-022/">SPA13-022</a> cric elec td visecr<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-023/">SPA13-023</a> cric elec tpengre<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-024/">SPA13-024</a> boitevit<br />SPA13-101 reducteur orthobloc)<br />SPA13-102 motoreducteur(axes paralleles)<br />SPA13-103moteur(accouplement d'arbre)<br />SPA13-104 motoreducteur<br />SPA13-105 GROUPE MOTOREDUCTEUR(frein)<br />SPA13-105 Orthobloc(axes concourants)<br />SPA13-105 PALAN ELECTRIQUE<br />SPA13-106 perceuse(courroie)<br />SPA13-106 reducteur roue et vis sans fin<br />SPA13-107 boite d'avance tour num<br />SPA13-108 perceuse (limiteur de couple)<br />SPA13-108 PRESSE A CAME<br />SPA13-109 reducteur BW40<br />SPA13-110 ravoux(limiteur de couple)<br />SPA13-111 multitec(moteur frein)<br />SPA13-112 mainelec (ortobloc)<br />SPA13-113 ecolbroyeur(chaine)<br />SPA13-114 reducteur rouge<br />SPA13-115 reducteur rouge(axes coax)<br />SPA13-116 fraiseuse universel livre tunisie page 181<br />SPA13-116 RENVOI DE PRESSE<br />SPA13-117 boite de vitesse tou parallele livre tunisie page 155<br />SPA13-118 came<br />SPA13-119 reducteur<br />SPA13-120 reducteur à 2 étages<br />SPA13-121 reducteur arbre creux<br />SPA13-122 reducteur avec schema<br />SPA13-123 variateur à courroie<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-201/">SPA13-201</a> portail (limiteur de couple)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-210/">SPA13-210</a> borne escamotable de parking (bielle manivelle)<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-213/">SPA13-213</a> ASCENSEUR_PASTEUR2011<br /><a href="https://construction-lpcc.canoprof.fr/eleve/13/13-213/">SPA13-213</a> decmaparck</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144IABJHC","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-001/\">SPA13-001</a> pompe d’alimentation système d’injection d’un moteur diesel came<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-002/\">SPA13-002</a> Actionneur de serrure<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-003/\">SPA13-003</a> Freinage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-004/\">SPA13-004</a> Mini compresseur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-011/\">SPA13-011</a> étrier flottant yamaha<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-013/\">SPA13-013</a> boite de vitesse<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-014/\">SPA13-014</a> embrayage de la Suzuki GSF<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-015/\">SPA13-015</a> rétroviseur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-016/\">SPA13-016</a> Courroie d'accessoires Peugeot 206<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-018/\">SPA13-018</a> synchroniseur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-019/\">SPA13-019</a> boite de vitesse de tracteur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-020/\">SPA13-020</a> POMPE A VIDE<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-021/\">SPA13-021</a> freinage avant de la Honda CBF 125<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-022/\">SPA13-022</a> cric elec td visecr<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-023/\">SPA13-023</a> cric elec tpengre<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-024/\">SPA13-024</a> boitevit<br />SPA13-101 reducteur orthobloc)<br />SPA13-102 motoreducteur(axes paralleles)<br />SPA13-103moteur(accouplement d'arbre)<br />SPA13-104 motoreducteur<br />SPA13-105 GROUPE MOTOREDUCTEUR(frein)<br />SPA13-105 Orthobloc(axes concourants)<br />SPA13-105 PALAN ELECTRIQUE<br />SPA13-106 perceuse(courroie)<br />SPA13-106 reducteur roue et vis sans fin<br />SPA13-107 boite d'avance tour num<br />SPA13-108 perceuse (limiteur de couple)<br />SPA13-108 PRESSE A CAME<br />SPA13-109 reducteur BW40<br />SPA13-110 ravoux(limiteur de couple)<br />SPA13-111 multitec(moteur frein)<br />SPA13-112 mainelec (ortobloc)<br />SPA13-113 ecolbroyeur(chaine)<br />SPA13-114 reducteur rouge<br />SPA13-115 reducteur rouge(axes coax)<br />SPA13-116 fraiseuse universel livre tunisie page 181<br />SPA13-116 RENVOI DE PRESSE<br />SPA13-117 boite de vitesse tou parallele livre tunisie page 155<br />SPA13-118 came<br />SPA13-119 reducteur<br />SPA13-120 reducteur à 2 étages<br />SPA13-121 reducteur arbre creux<br />SPA13-122 reducteur avec schema<br />SPA13-123 variateur à courroie<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-201/\">SPA13-201</a> portail (limiteur de couple)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-210/\">SPA13-210</a> borne escamotable de parking (bielle manivelle)<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-213/\">SPA13-213</a> ASCENSEUR_PASTEUR2011<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/13/13-213/\">SPA13-213</a> decmaparck</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfk-bjdhph0su</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 14</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 14</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 14</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfk-bjdhph0su</odePageId>
+      <odeBlockId>20260103171547IKDLMG</odeBlockId>
+      <blockName>ETANCHÉITÉ</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>47</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfk-bjdhph0su</odePageId>
+          <odeBlockId>20260103171547IKDLMG</odeBlockId>
+          <odeIdeviceId>20260103170144VTKNNP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/14/14-001/">SPA14-001</a> Filtre à gasoil<br /><a href="https://construction-lpcc.canoprof.fr/eleve/14/14-002/">SPA14-002</a> vanne<br /><a href="https://construction-lpcc.canoprof.fr/eleve/14/14-0022/">SPA14-002</a> vanne 2<br /><a href="https://construction-lpcc.canoprof.fr/eleve/14/14-003/">SPA14-003</a> Pompe wolfcraft<br /><a href="https://construction-lpcc.canoprof.fr/eleve/14/14-004/">SPA14-004</a> Etanchéité filtre à huile<br /><a href="https://construction-lpcc.canoprof.fr/eleve/14/14-101/">SPA14-101</a> vérin bosch<br />SPA14-102 Etancheite orthobloc</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144VTKNNP","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/14/14-001/\">SPA14-001</a> Filtre à gasoil<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/14/14-002/\">SPA14-002</a> vanne<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/14/14-0022/\">SPA14-002</a> vanne 2<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/14/14-003/\">SPA14-003</a> Pompe wolfcraft<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/14/14-004/\">SPA14-004</a> Etanchéité filtre à huile<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/14/14-101/\">SPA14-101</a> vérin bosch<br />SPA14-102 Etancheite orthobloc</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfk-vblk8jcew</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 15</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 15</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 15</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfk-vblk8jcew</odePageId>
+      <odeBlockId>20260103171547OGENBU</odeBlockId>
+      <blockName>STATIQUE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>50</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfk-vblk8jcew</odePageId>
+          <odeBlockId>20260103171547OGENBU</odeBlockId>
+          <odeIdeviceId>20260103170144OTKQJA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-001/">SPA15-001</a> pince Kant Twist<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-002/">SPA15-002</a> coupe câble<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-003/">SPA15-003</a> chêvre<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-004/">SPA15-004</a> direction assistée de Laguna<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-005/">SPA15-005</a> cric moto<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-006/">SPA15-006</a> cric<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-007/">SPA15-007</a> sauterelle<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-008/">SPA15-008</a> extracteur<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-009/">SPA15-009</a> frein a main<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-010/">SPA15-010</a> Pompe hdi<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-011/">SPA15-011</a> EXTRACTEUR 3 BRANCHES<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-012/">SPA15-012</a> grue atelier<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-013/">SPA15-013</a> table-de-levage-moto-pneumatique<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-014/">SPA15-014</a> cric-pneumatique-3-boudins<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-015/">SPA15-015</a> cric-Air-Jack<br />SPA15-101 bride hydraulique<br />SPA15-102 bras manipulateur<br />SPA15-103 Pince de robot<br />SPA15-106 bride a palonnier<br />SPA15-108 marquage<br />SPA15-110 etau a serrage rapide<br />SPA15-111bride<br />SPA15-113 bride d'usinage<br />SPA15-114 retourneur vin mei<br />SPA15-115 bandeloureuse<br />SPA15-116 manutention reducteur mei<br />SPA15-117 tendeur courroie mei<br />SPA15-119 defardeleuse<br />SPA15-120 borne de reglage<br />SPA15-120 Montage de fraisage<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-204/">SPA15-204</a> barriere<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-209/">SPA15-209</a> ouvre barriere sinusmatic<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-2012/">SPA15-212</a> motorisation volet battant<br /><a href="https://construction-lpcc.canoprof.fr/eleve/15/15-218/">SPA15-218</a> eolienne</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144OTKQJA","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-001/\">SPA15-001</a> pince Kant Twist<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-002/\">SPA15-002</a> coupe câble<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-003/\">SPA15-003</a> chêvre<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-004/\">SPA15-004</a> direction assistée de Laguna<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-005/\">SPA15-005</a> cric moto<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-006/\">SPA15-006</a> cric<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-007/\">SPA15-007</a> sauterelle<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-008/\">SPA15-008</a> extracteur<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-009/\">SPA15-009</a> frein a main<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-010/\">SPA15-010</a> Pompe hdi<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-011/\">SPA15-011</a> EXTRACTEUR 3 BRANCHES<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-012/\">SPA15-012</a> grue atelier<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-013/\">SPA15-013</a> table-de-levage-moto-pneumatique<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-014/\">SPA15-014</a> cric-pneumatique-3-boudins<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-015/\">SPA15-015</a> cric-Air-Jack<br />SPA15-101 bride hydraulique<br />SPA15-102 bras manipulateur<br />SPA15-103 Pince de robot<br />SPA15-106 bride a palonnier<br />SPA15-108 marquage<br />SPA15-110 etau a serrage rapide<br />SPA15-111bride<br />SPA15-113 bride d'usinage<br />SPA15-114 retourneur vin mei<br />SPA15-115 bandeloureuse<br />SPA15-116 manutention reducteur mei<br />SPA15-117 tendeur courroie mei<br />SPA15-119 defardeleuse<br />SPA15-120 borne de reglage<br />SPA15-120 Montage de fraisage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-204/\">SPA15-204</a> barriere<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-209/\">SPA15-209</a> ouvre barriere sinusmatic<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-2012/\">SPA15-212</a> motorisation volet battant<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/15/15-218/\">SPA15-218</a> eolienne</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfl-577syee4v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 16</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 16</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 16</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfl-577syee4v</odePageId>
+      <odeBlockId>20260103171547UWKPGY</odeBlockId>
+      <blockName>RDM</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>53</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfl-577syee4v</odePageId>
+          <odeBlockId>20260103171547UWKPGY</odeBlockId>
+          <odeIdeviceId>20260103170144EJUZUK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/16/16-003/">SPA16-003</a> hayon de camion<br /><a href="https://construction-lpcc.canoprof.fr/eleve/16/16-005/">SPA16-005</a> frein<br /><a href="https://construction-lpcc.canoprof.fr/eleve/16/16-006/">SPA16-006</a> Unite de marquage<br /><a href="https://construction-lpcc.canoprof.fr/eleve/16/16-007/">SPA16-007</a> cric moto<br /><a href="https://construction-lpcc.canoprof.fr/eleve/16/16-008/">SPA16-008</a> attache caravane<br /><a href="https://construction-lpcc.canoprof.fr/eleve/16/16-010/">SPA16-010</a> Leve tole<br />SPA16-101 sauterelle<br />SPA16-102 pince<br />SPA16-103 flasque trotinette<br />SPA16-104 pince de marquage<br />SPA16-105 semelle etau rapide<br />SPA16-108 defardeleuse<br />SPA16-109 unite de fabrication switch<br />SPA16-111 fraiseuse flexion plane livre tunisie page 225<br />SPA16-112 motoreducteur<br />SPA16-113 fraiseuse vernier</p>
+<div id="gtx-trans" style="position: absolute; left: 8px; top: 175.363px;">
+<div class="gtx-trans-icon"></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144EJUZUK","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/16/16-003/\">SPA16-003</a> hayon de camion<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/16/16-005/\">SPA16-005</a> frein<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/16/16-006/\">SPA16-006</a> Unite de marquage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/16/16-007/\">SPA16-007</a> cric moto<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/16/16-008/\">SPA16-008</a> attache caravane<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/16/16-010/\">SPA16-010</a> Leve tole<br />SPA16-101 sauterelle<br />SPA16-102 pince<br />SPA16-103 flasque trotinette<br />SPA16-104 pince de marquage<br />SPA16-105 semelle etau rapide<br />SPA16-108 defardeleuse<br />SPA16-109 unite de fabrication switch<br />SPA16-111 fraiseuse flexion plane livre tunisie page 225<br />SPA16-112 motoreducteur<br />SPA16-113 fraiseuse vernier</p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 8px; top: 175.363px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfl-8sw90s239</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 17</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 17</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 17</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfl-8sw90s239</odePageId>
+      <odeBlockId>20260103171547JRVMAY</odeBlockId>
+      <blockName>CINEMATIQUE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>56</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfl-8sw90s239</odePageId>
+          <odeBlockId>20260103171547JRVMAY</odeBlockId>
+          <odeIdeviceId>20260103170144NWDJAW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-001/" id="link_8" title="">SPA17-001</a> moteur de modélisme CIR<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-002/">SPA17-002</a> moteur de modélisme Equi<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-007/">SPA17-007</a> cric electrique<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-008/">SPA17-008</a> Unite de marquage<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-009/">SPA17-009</a> Pompe hdi<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-010/">SPA17-010</a> cric electrique engrenage<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-011/">SPA17-011</a> essuie glace GBARRE<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-012/">SPA17-012</a> essuie glace bosh<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-013/">SPA17-013</a> Direction<br><a href="https://construction-lpcc.canoprof.fr/eleve/17/17-014">SPA17-014</a> Turbo<br>SPA17-103 Portique de manutention<br>SPA17-106 pince parker<br>SPA17-107 ascenceur pince<br>SPA17-109 bride de serrage<br>SPA17-110 bride pivotante<br>SPA17-111 convoyeur<br>SPA17-112 INERTEC<br>SPA17-114 Pince parker 2<br>SPA17-116 Manutention<br>SPA17-204 Portail verin rotatif<br>SPA17-205 decmaparck<br>SPA17-213 ascenceur melec<br>SPA17-215 barriere</p>
+<p><br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144NWDJAW","textInfoDurationInput":"","textInfoDurationTextInput":"Durée","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Regroupement","textTextarea":"\n<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-001/\" id=\"link_8\" title=\"\">SPA17-001</a> moteur de modélisme CIR<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-002/\">SPA17-002</a> moteur de modélisme Equi<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-007/\">SPA17-007</a> cric electrique<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-008/\">SPA17-008</a> Unite de marquage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-009/\">SPA17-009</a> Pompe hdi<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-010/\">SPA17-010</a> cric electrique engrenage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-011/\">SPA17-011</a> essuie glace GBARRE<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-012/\">SPA17-012</a> essuie glace bosh<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-013/\">SPA17-013</a> Direction<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/17/17-014\">SPA17-014</a> Turbo<br />SPA17-103 Portique de manutention<br />SPA17-106 pince parker<br />SPA17-107 ascenceur pince<br />SPA17-109 bride de serrage<br />SPA17-110 bride pivotante<br />SPA17-111 convoyeur<br />SPA17-112 INERTEC<br />SPA17-114 Pince parker 2<br />SPA17-116 Manutention<br />SPA17-204 Portail verin rotatif<br />SPA17-205 decmaparck<br />SPA17-213 ascenceur melec<br />SPA17-215 barriere</p>\n<p><br /></p>\n","textFeedbackInput":"Montrer l'écho en retour","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfl-wr90vq61o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 18</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 18</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 18</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfl-wr90vq61o</odePageId>
+      <odeBlockId>20260103171547NNNAPH</odeBlockId>
+      <blockName>DYNAMIQUE ENERGETIQUE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>59</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfl-wr90vq61o</odePageId>
+          <odeBlockId>20260103171547NNNAPH</odeBlockId>
+          <odeIdeviceId>20260103170144WQFXCD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/18/18-003/">SPA18-003</a> cric energie<br /><a href="https://construction-lpcc.canoprof.fr/eleve/18/18-004/">SPA18-004</a> controle-puissance-yamaha-XJ-650<br /><a href="https://construction-lpcc.canoprof.fr/eleve/18/18-005/">SPA18-005</a> transmission dune honda CBR 600F<br /><a href="https://construction-lpcc.canoprof.fr/eleve/18/18-006/">SPA18-006</a> Yamaha DT 125 LC<br /><a href="https://construction-lpcc.canoprof.fr/eleve/18/18-007/">SPA18-007</a> Peugeot 407<br /><a href="https://construction-lpcc.canoprof.fr/eleve/18/18-008/">SPA18-008</a> Citroen Picasso<br />SPA18-101 Convoyeur<br />SPA18-102 vibreur SHICOH B7R2A<br />SPA18-203 monte charge</p>
+<p></p>
+<div id="gtx-trans" style="position: absolute; left: 10px; top: 128.762px;">
+<div class="gtx-trans-icon"></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144WQFXCD","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/18/18-003/\">SPA18-003</a> cric energie<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/18/18-004/\">SPA18-004</a> controle-puissance-yamaha-XJ-650<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/18/18-005/\">SPA18-005</a> transmission dune honda CBR 600F<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/18/18-006/\">SPA18-006</a> Yamaha DT 125 LC<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/18/18-007/\">SPA18-007</a> Peugeot 407<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/18/18-008/\">SPA18-008</a> Citroen Picasso<br />SPA18-101 Convoyeur<br />SPA18-102 vibreur SHICOH B7R2A<br />SPA18-203 monte charge</p>\n<p></p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 10px; top: 128.762px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfl-o6nsgz8s6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE 19</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 19</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE 19</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfl-o6nsgz8s6</odePageId>
+      <odeBlockId>20260103171547GYQQSR</odeBlockId>
+      <blockName>Tolérances géométrique - Cotation GPS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>62</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfl-o6nsgz8s6</odePageId>
+          <odeBlockId>20260103171547GYQQSR</odeBlockId>
+          <odeIdeviceId>20260103170144SWJUAU</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/19/19-301/">SPA19-301</a> Porte de caisson</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144SWJUAU","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/19/19-301/\">SPA19-301</a> Porte de caisson</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaocdfl-hsy98snty</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CYCLE BA</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE BA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CYCLE BA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaocdfl-hsy98snty</odePageId>
+      <odeBlockId>20260103171547PWZHAY</odeBlockId>
+      <blockName>BATIMENT</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>65</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaocdfl-hsy98snty</odePageId>
+          <odeBlockId>20260103171547PWZHAY</odeBlockId>
+          <odeIdeviceId>20260103170144IABHRL</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA01/">SPA-BA01</a> les bases en lecure de plan<br /><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA02/">SPA-BA02</a> lecture de plan de batiment<br /><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA03/">SPA-BA03</a> chauffage<br /><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA04/">SPA-BA04</a> le plan de masse<br /><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA05/">SPA-BA05</a> le plan de situation<br /><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA06/">SPA-BA06</a> Pavillon 31<br /><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA071/">SPA-BA07</a> Pavillon 27<br /><a href="https://construction-lpcc.canoprof.fr/eleve/BA/BA08/">SPA-BA08</a> sweet home installation des radiateurs dans pavillon</p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260103170144IABHRL","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA01/\">SPA-BA01</a> les bases en lecure de plan<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA02/\">SPA-BA02</a> lecture de plan de batiment<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA03/\">SPA-BA03</a> chauffage<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA04/\">SPA-BA04</a> le plan de masse<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA05/\">SPA-BA05</a> le plan de situation<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA06/\">SPA-BA06</a> Pavillon 31<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA071/\">SPA-BA07</a> Pavillon 27<br /><a href=\"https://construction-lpcc.canoprof.fr/eleve/BA/BA08/\">SPA-BA08</a> sweet home installation des radiateurs dans pavillon</p>\n<p></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
